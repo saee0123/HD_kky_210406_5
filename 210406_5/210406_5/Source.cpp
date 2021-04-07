@@ -22,7 +22,7 @@ void main() {
 	printf("%d*6=%d\n", _ex, _ex * _6);
 	printf("%d*7=%d\n", _ex, _ex * _7);
 	printf("%d*8=%d\n", _ex, _ex * _8);
-	printf("%d*9=%d\n", _ex, _ex * _9);
+	printf("%d*9=%d", _ex, _ex * _9);
 
 	fgetc(stdin);
 }
