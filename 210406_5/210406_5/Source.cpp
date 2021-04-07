@@ -9,7 +9,7 @@ void main() {
 	int _ex = 0;
 	int _1(1), _2(2), _3(3), _4(4), _5(5), _6(6), _7(7), _8(8), _9(9);
 
-	printf ("1~9의 정수값을 입력해주 : ", _ex);
+	printf ("1~9의 정수값을 입력해주세요 : ", _ex);
 
 	scanf_s("%d", &_ex);
 	fseek(stdin, 0, SEEK_END);
